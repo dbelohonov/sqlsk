@@ -8,3 +8,9 @@ This is my project for SQL number one
 ### Github
 How to push data
 My next Git lesson
+
+
+## Check Python Version
+```bash
+python --version
+```
