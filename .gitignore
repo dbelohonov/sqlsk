@@ -1,4 +1,5 @@
 *.txt
+pyabc/config.py
 
 # Django #
 *.log
