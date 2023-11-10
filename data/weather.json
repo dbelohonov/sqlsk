@@ -1,0 +1,41 @@
+{
+    "location": {
+        "name": "Bratislava",
+        "region": "Bratislava",
+        "country": "Slovakia",
+        "lat": 48.15,
+        "lon": 17.12,
+        "tz_id": "Europe/Bratislava",
+        "localtime_epoch": 1699047144,
+        "localtime": "2023-11-03 22:32"
+    },
+    "current": {
+        "last_updated_epoch": 1699046100,
+        "last_updated": "2023-11-03 22:15",
+        "temp_c": 7.0,
+        "temp_f": 44.6,
+        "is_day": 0,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+            "code": 1003
+        },
+        "wind_mph": 6.9,
+        "wind_kph": 11.2,
+        "wind_degree": 240,
+        "wind_dir": "WSW",
+        "pressure_mb": 996.0,
+        "pressure_in": 29.41,
+        "precip_mm": 0.1,
+        "precip_in": 0.0,
+        "humidity": 93,
+        "cloud": 50,
+        "feelslike_c": 4.9,
+        "feelslike_f": 40.8,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.0,
+        "gust_mph": 10.2,
+        "gust_kph": 16.5
+    }
+}
