@@ -1,11 +1,3 @@
--- CREATE STATEMENTS --
-
-create table dogs (
-    name  varchar,
-    age   integer,
-    color varchar
-);
-
 create table ah_csv (
     DOW        date,
     AUT        varchar,
